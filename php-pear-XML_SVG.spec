@@ -8,7 +8,7 @@ Summary:	%{_pearname} - XML_SVG API
 Summary(pl):	%{_pearname} - API XML_SVG
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
-Release:	1.2
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
