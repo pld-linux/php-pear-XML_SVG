@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - XML_SVG API
-Summary(pl):	%{_pearname} - API XML_SVG
+Summary(pl.UTF-8):   %{_pearname} - API XML_SVG
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
 Release:	1
@@ -28,9 +28,9 @@ documents.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet dostarcza zorientowanej obiektowo metody budowania
-dokumentów SVG.
+dokumentÃ³w SVG.
 
 Ta klasa ma w PEAR status: %{_status}.
 
