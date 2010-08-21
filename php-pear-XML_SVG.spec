@@ -3,12 +3,11 @@
 %define		_subclass	SVG
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
-
 Summary:	%{_pearname} - XML_SVG API
 Summary(pl.UTF-8):	%{_pearname} - API XML_SVG
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
