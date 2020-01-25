@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	XML_SVG
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - XML_SVG API
 Summary(pl.UTF-8):	%{pearname} - API XML_SVG
 Name:		php-pear-%{pearname}
